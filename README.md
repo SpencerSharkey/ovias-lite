@@ -18,3 +18,10 @@ Again, this stuff is all unfinished. I decided to pick this project up again but
 Any questions, contact me on the following:
 - Discord: SpencerSharkey#6403
 - Steam: http://steamcommunity.com/id/sassharkey/
+
+Media:
+
+![Youtube Video](https://img.youtube.com/vi/_u55p_Bv39E/0.jpg)
+(https://www.youtube.com/watch?v=_u55p_Bv39E)
+
+![Money Shot](http://4st.me/bg6X5.png)

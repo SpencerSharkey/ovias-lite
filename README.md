@@ -16,7 +16,7 @@ Some interesting things included in this "dump":
 Again, this stuff is all unfinished. I decided to pick this project up again but have not decided whether or not to open-source my most recent additions. In the spirit of open-source, I decided to fork this over to ovias-lite and keep what exists open to everyone.
 
 Any questions, contact me on the following:
-- Discord: SpencerSharkey#6403
+- Discord: Spencer#0001
 - Steam: http://steamcommunity.com/id/sassharkey/
 
 Media:
